@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheJoelster
-- 👀 I’m interested in computer science and electrical engineering
-- 🌱 I’m currently learning Java
-- 💞️ Currently working on my Personal Project for IB 10
+- 👀 I’m interested in ECE 
+- 🌱 I’m currently learning using CS50
+- 💞️ Currently working on an app solution for my school
 - 📫 Reach me on Discord at The Joelster#5606
 
 <!---
