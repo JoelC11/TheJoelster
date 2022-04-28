@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheJoelster
-- 👀 I’m interested in ECE 
-- 🌱 I’m currently learning using CS50
-- 💞️ Currently working on an app solution for my school
+- 👀 I’m interested in EE/CE/CS
+- 🌱 I’m currently learning UI/UX design and frontend development
+- 💞️ Hoping to learn TS/Rust/React to contribute to flight sim open source projects in the future!
 - 📫 Reach me on Discord at The Joelster#5606
 
 <!---
