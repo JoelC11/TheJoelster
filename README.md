@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheJoelster
-- 👀 I’m interested in EE/CE/CS
-- 🌱 I’m currently learning UI/UX design and frontend development
-- 💞️ Hoping to learn TS/Rust/React to contribute to flight sim open source projects in the future!
+- 👋 Hi, I’m @TheJoelster, a Grade 11 student!
+- 👀 I’m interested in Computer and SW Engineering.
+- 🌱 I’m currently learning web and app development.
+- 💞️ Hoping to contribute to open-source projects in the future!
 - 📫 Reach me on Discord at The Joelster#5606
 
 <!---
