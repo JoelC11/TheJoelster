@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheJoelster, a Grade 11 student!
+- 👋 Hi, I’m @TheJoelster, a Grade 12 student!
 - 👀 I’m interested in Computer and SW Engineering.
 - 🌱 I’m currently learning web and app development.
 - 💞️ Hoping to contribute to open-source projects in the future!
