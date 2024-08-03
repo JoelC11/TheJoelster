@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TheJoelster, a Grade 12 student!
-- 👀 I’m interested in Computer Engineering.
-- 🌱 I’m currently doing an introduction to full stack development and computer science on Codecademy.
-- 💞️ Working on The Anonymous Helpers V2 - a free site to revise IB DP subjects!
+- 👋 Hi, I’m @TheJoelster, a high school graduate!
+- 👀 I’m studying Computer Engineering at the University of Waterloo this fall.
+- 🌱 I’m currently doing an introduction to computer science with Python on Codecademy.
 - 
 <!---
 TheJoelster/TheJoelster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
